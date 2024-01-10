@@ -1,0 +1,87 @@
+.header{
+	height: 100px;
+	background-color: red;
+	border: teal 3px solid;
+}
+.container{
+overflow: hidden;
+}
+.contact{
+   height: 100px;
+   width: 50%;
+   border: teal 3px solid;
+   background-color: green;
+   float: left;
+   box-sizing: border-box;
+}
+.blog{
+    height: 100px;
+    width: 50%;
+	border: teal 3px solid;
+	background-color:yellow;
+    float: right;
+    box-sizing: border-box;
+}
+.headphone{
+    height: 100px;
+    width: 33.33%;
+    float: left;
+	border: teal 3px solid;
+	box-sizing: border-box;
+}
+.hoco{
+background-color:blue;
+}
+.airpod{
+background-color: lightseagreen;
+}
+.anker{
+background-color:pink;	
+}
+.game{
+    height: 100px;
+	width: 25%;
+	float: left;
+	border: teal 3px solid;
+	box-sizing: border-box;
+}
+.freefire{
+background-color: violet;
+}
+.pubg{
+background-color: steelblue;
+}
+.combat{
+	background-color:mediumpurple ;
+}
+.alphat{
+	background-color:palevioletred;
+}
+.phone{
+    height: 100px;
+    width: 20%;
+    float: left;
+    border: 3px solid green;
+    box-sizing: border-box;
+
+}
+.iphone{
+    background-color: blueviolet;
+}
+.nokia{
+    background-color: lightcoral;
+}
+.redmi{
+    background-color: lawngreen;
+}
+.samsung{
+    background-color: lightseagreen;
+}
+.walton{
+    background-color: limegreen;
+}
+.footer{
+    height: 100px;
+	background-color: lightblue;
+	border: teal 3px solid;
+}
